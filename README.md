@@ -11,7 +11,7 @@ Pour ce faire :
 3. Appuyez sur le bouton nouveau, en haut à droite.
 4. Effectuez le raccourci clavier sur lequel mettre l'une des deux macros.
 5. Double cliquez dans la colonne « Command ».
-6. Notez : « automation/lua/Image_Suivante/Dupliquer à l'image précédente » ou « automation/lua/Image_Suivante/Dupliquer à l'image suivante »
+6. Notez : « automation/lua/Frame_Supplémentaire/Dupliquer à l'image precedente » ou « automation/lua/Frame_Supplémentaire/Dupliquer à l'image suivante »
   - Notez que l'orthographe peut varier si de futures mises à jour sont appliquées. Vous pourrez retrouver la bonne fonctionne par autocomplétion d'Aegisub en commençant à écrire les commandes ci-dessus.
 7. Appliquez
 
@@ -40,7 +40,7 @@ To do so :
 3. Click the "New" button at the top-right corner.
 4. Perform the hotkey you want to assign one of the two macro to.
 5. Double click on the "Command" column.
-6. Type : « automation/lua/Image_Suivante/Dupliquer à l'image précédente » or « automation/lua/Image_Suivante/Dupliquer à l'image suivante »
-  - If you changed the name and description of the macros, then you should type « automation/lua/Image_Suivante/Duplicate to the previous frame » or « automation/lua/Image_Suivante/Duplicate to the next frame »
+6. Type : « automation/lua/Frame_Supplémentaire/Dupliquer à l'image precedente » or « automation/lua/Frame_Supplémentaire/Dupliquer à l'image suivante »
+  - If you changed the name and description of the macros, then you should type « automation/lua/Frame_Supplémentaire/Duplicate to the previous frame » or « automation/lua/Frame_Supplémentaire/Duplicate to the next frame »
   - Please, note that the spelling may change with future updates. You will be able to find the right spelling with aegisub's autocompletion.
 7. Apply
