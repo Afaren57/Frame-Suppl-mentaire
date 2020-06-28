@@ -3,7 +3,7 @@ include("karaskel.lua")
 script_name_1 = "Dupliquer à l'image suivante"
 script_description_1 = "Duplique la ligne actuelle à l'image suivante"
 
-script_name_2 = "Dupliquer à l'image précédente"
+script_name_2 = "Dupliquer à l'image precedente"
 script_description_2 = "Duplique la ligne actuelle à l'image précédente"
 
 script_version = "0.1"
