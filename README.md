@@ -1,4 +1,4 @@
-# Frame-Supplémentaire
+# Frame Supplémentaire
 *English version follows*
 
  Script 2-en-1 pour Aegisub qui permet de dupliquer la ligne actuellement sélectionnée à la frame précédente ou suivante, selon le besoin. Pratique pour les éditions vidéo à faire image par image.
